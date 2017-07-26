@@ -1,2 +1,2 @@
 # Da_dagger-
-A flash game made back when I was a young'un.
+The game is implemented in flash, using flash actionscript, an object-oriented java-like language.
