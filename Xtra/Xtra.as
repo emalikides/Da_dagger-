@@ -1,0 +1,1 @@
+﻿package Xtra {	//class to hold all the xtra stuff in the game, like text that floats around,	//blood splatters, stars, and other random objects.	public class Xtra {		public function Xtra()  {			//TODO		}	}}
